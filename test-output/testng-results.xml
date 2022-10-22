@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-22T05:06:01 IST" name="Default suite" finished-at="2022-10-22T05:09:50 IST" duration-ms="229300">
+    <groups>
+    </groups>
+    <test started-at="2022-10-22T05:06:01 IST" name="Default test" finished-at="2022-10-22T05:09:50 IST" duration-ms="229300">
+      <class name="testPackage.DesignEfficiently">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:06:01 IST" name="beforeClass" finished-at="2022-10-22T05:06:19 IST" duration-ms="18307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test0()[pri:1, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:06:19 IST" name="test0" finished-at="2022-10-22T05:06:25 IST" duration-ms="6266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test0 -->
+        <test-method signature="test1()[pri:2, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:06:25 IST" name="test1" finished-at="2022-10-22T05:07:34 IST" duration-ms="68648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:3, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:07:34 IST" name="test2" finished-at="2022-10-22T05:08:19 IST" duration-ms="45040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3a()[pri:4, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:08:19 IST" name="test3a" finished-at="2022-10-22T05:08:32 IST" duration-ms="12644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3a -->
+        <test-method signature="test3b()[pri:5, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:08:32 IST" name="test3b" finished-at="2022-10-22T05:08:41 IST" duration-ms="8866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3b -->
+        <test-method signature="test3c()[pri:6, instance:testPackage.DesignEfficiently@576d5deb]" started-at="2022-10-22T05:08:41 IST" name="test3c" finished-at="2022-10-22T05:09:50 IST" duration-ms="69369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3c -->
+      </class> <!-- testPackage.DesignEfficiently -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

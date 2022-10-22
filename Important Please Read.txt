@@ -1,0 +1,5 @@
+Please replace sample pdf file in DEPOM.java class at line no. 156 from your PC
+
+"D:\AutoIT\Sample.pdf"--> your file location with no "spaces" in path
+
+And Replace UserName and Password also mention in LogIn Method.
